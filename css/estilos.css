@@ -1,0 +1,52 @@
+header{
+    background: white;
+    height: 500px;
+    background-image: url("../imagenes/margon.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.boton .btn{
+    background: teal;
+    border-radius: 5px;
+
+}
+
+.boton a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    display: block;
+    padding: 15px 10px;
+    margin: 0px;
+    width: 90px;
+    margin:0 auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.boton a:hover{
+background: #005252;
+}
+main .texto p{
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+.contenedor{
+    width: 90%;
+    margin: auto;
+}
+main .foto{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: -90px 0 20px 0;
+    border: 6px solid #ffffff;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main .foto img{
+    width: 100%;
+}
